@@ -1,7 +1,7 @@
 name: ELEVATE
 favicon: null
-layout_spectrum: 0.9153347299434245
-typography_spectrum: 0.649738987442106
+layout_spectrum: 0.87995
+typography_spectrum: 0.31065
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.25
-  lightness: 0.4862127008382231
-  saturation: 0.5606013685464859
-  rhythmicContrast: 0.6192662208341062
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
